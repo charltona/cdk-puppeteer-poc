@@ -1,8 +1,7 @@
-# Welcome to your CDK TypeScript project
+# AWS CDK Puppeteer Stack
 
-This is a blank project for CDK development with TypeScript.
+This proof of concept demonstrates the ability to execute puppeteer using chromium on AWS Lambda to generate and return images from browser screenshots.
 
-The `cdk.json` file tells the CDK Toolkit how to execute your app.
 
 ## Useful commands
 
